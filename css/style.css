@@ -408,3 +408,8 @@ iframe, object, embed {
 	text-align: center;
 	color: #fff;
 }
+
+@font-face {
+	font-family: 'glace';
+	src: url('../fonts/Lovely Home.ttf') format('truetype');
+}
