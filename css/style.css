@@ -411,5 +411,6 @@ iframe, object, embed {
 
 @font-face {
 	font-family: 'glace';
+	color: '#aa8ec5';
 	src: url('../fonts/Lovely Home.ttf') format('truetype');
 }
